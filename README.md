@@ -41,7 +41,7 @@ La aplicación permitirá la gestión de las tareas del hogar de distintos usuar
 - provincia- String [Not null]
 
 
-## ¿QUÉ DATOS NECESITASMOS PARA: ?
+## ¿QUÉ DATOS NECESITAMOS PARA: ?
 - Login: userName, password
 - Registro usuario: nombre, apellido, email. password, repitePassword, userName
 - Ver una tarea: nombre, descripción, fechaFinalizacion, estado
